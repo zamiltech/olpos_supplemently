@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include olpos_supplemently *.css
+recursive-include olpos_supplemently *.csv
+recursive-include olpos_supplemently *.html
+recursive-include olpos_supplemently *.ico
+recursive-include olpos_supplemently *.js
+recursive-include olpos_supplemently *.json
+recursive-include olpos_supplemently *.md
+recursive-include olpos_supplemently *.png
+recursive-include olpos_supplemently *.py
+recursive-include olpos_supplemently *.svg
+recursive-include olpos_supplemently *.txt
+recursive-exclude olpos_supplemently *.pyc
