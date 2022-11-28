@@ -21,6 +21,7 @@ fixtures = [
                 "Sales Invoice Item",
                 "Mode of Payment",
 		"Item",
+		"Payment Entry",
             ]
         ]
     ]}
